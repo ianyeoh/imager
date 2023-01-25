@@ -6,12 +6,12 @@ Supports GIF, PDF, PNG, TIFF, and WebP image types.
 
 # Examples 
 `
-imager images/cat.jpg  
+imager.py images/cat.jpg  
 `
 ![ASCII](images/ascii.png)
 
 `
-imager images/dog.png -c  
+imager.py images/dog.png -c  
 `
 ![Colour](images/colour.png)
 
