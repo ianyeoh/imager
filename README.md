@@ -1,6 +1,6 @@
 # Imager
 
-Python script that renders images to the terminal either as ASCII art or as a colour image (on supported terminals) using ANSI colour escape codes. Uses PIL for image manipulation. Requires NumPy (external installation required).
+Python script that renders images as text to the terminal either as ASCII art or as a colour image (on supported terminals) using ANSI colour escape codes. Uses PIL for image manipulation. Requires NumPy (external installation required).
 
 Supports GIF, PDF, PNG, TIFF, and WebP image types.
 
